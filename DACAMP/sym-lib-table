@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "PCM3060PW")(type "KiCad")(uri "C:/Users/migue/Documents/KiCads/DACAMP/KiCADv6/2024-01-07_20-42-12.kicad_sym")(options "")(descr ""))
+  (lib (name "PCM2900C")(type "KiCad")(uri "C:/Users/migue/Documents/KiCad/Symbols/2024-01-31_22-02-43.kicad_sym")(options "")(descr ""))
+)
