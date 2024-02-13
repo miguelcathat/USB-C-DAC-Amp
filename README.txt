@@ -1,3 +1,7 @@
+Find .sch file for current schamtic.
+No .pcb file available yet.
+
+
 Miguel personal headphone DACAMP:
 
 Requirements:
